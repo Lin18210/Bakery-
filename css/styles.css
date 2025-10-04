@@ -587,6 +587,7 @@ footer {
     padding: 4rem 0 2rem;
     margin-top: 4rem;
     border-top: 1px solid rgba(74, 53, 39, 0.1);
+    text-align: center;
 }
 
 .footer-content {
